@@ -1,0 +1,253 @@
+#navbar .list a{
+    justify-content: space-between;
+    text-decoration: none;
+    margin-left: 15px;
+    color:coral;
+    font-family: Arial, Helvetica, sans-serif,;
+    font-style: italic;
+    }
+#navbar .list{
+    margin-top: 20px;
+}
+#navbar #selective{
+    margin-top: 25px;
+    color:coral;
+}
+#navbar form option{
+    font-family: Arial, Helvetica, sans-serif,;
+    font-style: italic;
+    color:coral;
+}
+#navbar form select{
+    padding-right: 50px;
+    border-radius: 5px;
+}
+#navbar #shop{
+    margin-top: 25px;
+}
+#navbar #shop a{
+    margin-left: 25px;
+    color:coral;
+    text-decoration: none
+}
+
+#one h1{
+    margin-top: 40px;
+   color: navy;
+   font-family:'Lucida Sans Regular';
+}
+#one p{
+   font-family:'Lucida Sans Regular';
+}
+
+
+
+#two #front{
+    margin-top: 100px;
+    background-color: rgb(255, 249, 249);
+    padding: 0px;
+ }
+#two h1{
+    margin-top: 90px;
+   color: navy;
+   font-family:'Lucida Sans Regular';
+}
+#two p{
+   font-family:'Lucida Sans Regular';
+}
+#two button{
+    margin-left: 600px;
+    background-color: coral;
+    border: none;
+    font-family:'Lucida Sans Regular';
+}
+
+
+#three{
+    margin-top: 50px;
+ }
+#three h1{
+   color: navy;
+   font-family:'Lucida Sans Regular';
+}
+#three p{
+   font-family:'Lucida Sans Regular';
+   text-align: center;
+ }
+#three img{
+    margin-top: 150px;
+}
+
+#four{
+    margin-top: 50px;
+ }
+ #four h5{
+    margin-top: 30px;
+    color: coral;
+    font-family:'Lucida Sans Regular';
+ }
+ #four p{
+    margin-top: 30px;
+    font-family:'Lucida Sans Regular';
+}
+#four button{
+    margin-left: 100px;
+    color: white;
+    font-family:'Lucida Sans Regular';
+    font-style: italic;
+    background-color: coral;
+    border: coral;
+    border-radius: 25px;
+}
+
+
+
+ #five{
+    margin-top: 70px;
+ }
+ #five button{
+    margin-left: 0px;
+    color: white;
+    font-family:'Lucida Sans Regular';
+    font-style: italic;
+    background-color: coral;
+    border: coral;
+    border-radius: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+ }
+ #five img{
+    margin-top: 80px;
+ }
+
+
+ #six #back{
+    margin-top: 50px;
+    background-color: rgb(255, 249, 249);
+    padding-top: 70px;
+ }
+ #six h1{
+    color: navy;
+    font-family:'Lucida Sans Regular';
+ }
+ #six p{
+    font-family:'Lucida Sans Regular';
+ }
+
+
+
+ #seven #back{
+    background-color: rgb(255, 249, 249);
+    padding-bottom: 70px;
+   
+ }
+ #seven h5{
+    margin-top: 20px;
+    color: coral;
+    font-family:'Lucida Sans Regular';
+ }
+ #seven p{
+    font-family:'Lucida Sans Regular';
+ }
+ #seven a{
+    color: coral;
+    text-decoration: none;
+    font-family:'Lucida Sans Regular';
+    font-style: italic;
+    margin-left: 20px;
+ }
+ #seven .reseau{
+    background-color: white;
+    border-radius: 5px;
+    padding-bottom: 30px;
+ }
+ #seven .reseau img{
+    border-radius: 5px;   
+}
+#seven .reseau h5{
+    margin-left: 20px;   
+}
+#seven .reseau p{
+    margin-left: 20px;   
+}
+
+
+#eight{
+    margin-top: 50px;
+}
+#eight h1{
+    color: navy;
+    font-family:'Lucida Sans Regular';
+}
+#eight h5{
+    margin-top: 20px;
+    color: navy;
+    font-family:'Lucida Sans Regular';
+}
+#eight input[type=Email]{
+    border-radius: 10px;
+    padding-right: 90px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#eight input[type=text]{
+    margin-left: 50px;
+    border-radius: 10px;
+    padding-right: 90px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#eight textarea{
+    border-radius: 10px;
+}
+#eight .envoie button{
+    border-radius: 20px;
+    background-color: coral;
+    border-color: coral;
+    padding-left: 260px;
+    padding-right: 260px;
+    font-family:'Lucida Sans Regular';
+    font-style: italic;
+    margin-top: 10px;
+}
+#eight .envoie button i{
+    margin-left: 20px;
+}
+#eight .reserve button{
+    border-radius: 20px;
+    background-color: coral;
+    border-color: coral;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family:'Lucida Sans Regular';
+    font-style: italic;
+    margin-left: 70px;
+}
+
+
+footer #foot{
+    margin-top: 50px;
+    background-color: rgb(255, 249, 249);
+}
+footer #none{
+    margin-top: 20px;
+    background-color: black;
+    padding: 20px;
+}
+footer #foot .icon-list i{
+    margin-top: 20px;
+    color: navy;
+}
+footer #foot .icon-list{
+    font-family:'Franklin Gothic Medium',;
+}
+#foot .socialmedia i{
+    margin-top: 30px;
+    margin-left: 10px;
+    padding: 10px;
+    background-color: coral;
+    color: white;
+    cursor: pointer;
+}
+    
+    
